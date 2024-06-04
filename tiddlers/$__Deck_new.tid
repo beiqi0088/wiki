@@ -1,13 +1,13 @@
-caption: 我的学习
-card: [all[shadows+tiddlers]tag[?]]
+caption: 复习
+card: [all[shadows+tiddlers]tag[无码]]
 card_exclude: [tag[!]]
 card_unfold: [tag[.]]
-created: 20240604121143844
+created: 20240604124654383
 description: 
 exclude_action: {{$:/plugins/tidme/fsrs4tw/buttons/action/exclude}}
 leech_action: {{$:/plugins/tidme/fsrs4tw/buttons/action/exclude}}
 leech_threshold: 8
-modified: 20240604121143844
+modified: 20240604124654383
 order: due-new
 order_due: [sort[due]]
 order_learn: [sort[due]]
