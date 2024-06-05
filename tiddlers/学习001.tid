@@ -1,0 +1,8 @@
+created: 20240605142401135
+modified: 20240605142504441
+tags: 任务
+title: 学习001
+tmo_priority: High
+tmo_taskState: New
+
+标签相当于是一个条目「tags」字段下的数组，如果想描述更精确的三元组关系，例如「好朋友」，那么可以在「friends」字段下的数组里填朋友的名字。
